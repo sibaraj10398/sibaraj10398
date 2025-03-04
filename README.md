@@ -2,4 +2,4 @@
 - 🎓 BSc IT Student
 - 💻 Learning C++, HTML, Java, Python
 - 🌱 Passionate about Web Development & AI
-- 📫 Reach me at: your-email@example.com
+- 📫 Reach me at: sibaraj10398@gmail.com
